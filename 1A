@@ -9,3 +9,8 @@ total_cost=total_book_cost+total_ship
 print(total_book_cost)
 print(total_ship)
 print(total_cost)
+
+Output:
+1473.0
+47.25
+1520.25
