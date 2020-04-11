@@ -7,3 +7,7 @@ def string_both_ends(str):
 print(string_both_ends('alay'))
 print(string_both_ends('al'))
 print(string_both_ends('a'))
+
+Output:
+alay
+alal
