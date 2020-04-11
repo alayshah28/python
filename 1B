@@ -9,3 +9,8 @@ breakfast_sec= (breakfast_min-int(breakfast_min))*60
 print (int(breakfast_hr) )
 print (int (breakfast_min) )
 print (int (breakfast_sec) )
+
+Output:
+7
+30
+6
